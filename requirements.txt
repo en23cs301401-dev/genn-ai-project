@@ -1,0 +1,6 @@
+streamlit>=1.40
+openai>=1.40
+opencv-python-headless
+pandas
+pillow
+numpy
